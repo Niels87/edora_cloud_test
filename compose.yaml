@@ -1,4 +1,4 @@
-name: edora_cloud_test 
+name: edora-cloud-test 
 
 services:
   app:
